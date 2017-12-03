@@ -1,0 +1,4 @@
+{
+	"microservice.name": "MyFirstMicroService",
+	"http.port": 8080
+}
